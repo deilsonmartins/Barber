@@ -1,4 +1,4 @@
--------------->Para acessar as imagens do projeto vá para ./Barber/Images<--------------
+                    -------------->Para acessar as imagens do projeto vá para ./Barber/Images<--------------
 
 <h3 align="center">
   Barber
