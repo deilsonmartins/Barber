@@ -17,9 +17,9 @@
 
 <p align="center">
   <a href="#rocket-sobre-a-aplicação">Sobre a Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocketTecnologias Utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocketTecnologias Utilizadas"> Instalação e Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#rocketTecnologias Utilizadas">Como Contribuir</a>
+  <a href="#rocket-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-instalação-e-execução"> Instalação e Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#rocket-como-contribuir">Como Contribuir</a>
 </p>
 
 ## :rocket: Sobre a Aplicação
@@ -34,7 +34,7 @@ A aplicação é um gerenciador de agendamentos de uma barbearia inspirada no pr
 - **Redux** — Gerenciador de estados
 - **Axios** — Requisições de API
 
-## 📥 Instalação e Execução
+## :rocket: Instalação e Execução
 
 Faça um clone desse repositório.
 
@@ -55,7 +55,7 @@ Faça um clone desse repositório.
 3. Rode `yarn start` para iniciar o client.
 
 
-## 🤔 Como Contribuir
+## :rocket: Como Contribuir
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
