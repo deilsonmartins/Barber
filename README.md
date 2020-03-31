@@ -24,7 +24,7 @@
 
 ## :rocket: Sobre a Aplicação
 
-A aplicação é um gerenciador de agendamentos de uma barbearia inspirada no projeto GoBarber do bootcamp da Rocktseat.
+A aplicação é um gerenciador de agendamentos de uma barbearia inspirada no projeto GoBarber do bootcamp da Rocketseat.
 
 ## :rocket: Tecnologias Utilizadas
 - **NodeJS** — Um interpretador de javascript assíncrono
