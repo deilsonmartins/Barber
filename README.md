@@ -1,11 +1,11 @@
                     -------------->Para acessar as imagens do projeto vá para ./Barber/Images<--------------
-
+<h1 align="center">
+    <img src="./Barber/Frontend/src/assets/logo-purple.svg" alt="barber"/>
+     Barber
+ </h1>
+              
 <h3 align="center">
-  Barber
-</h3>
-
-<h3 align="center">
-  #rocketseat, #nodejs, #express, #mongodb, #jwt, #yup
+  #rocketseat, #nodejs, #express, #mongodb, #react, #redux, #jwt, #yup
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## :rocket: Sobre a Aplicação
 
-A aplicação é um gerenciador de agendamentos de uma barbearia inspirada no projeto GoBarber do bootcamp da Rocketseat.
+A aplicação é um gerenciador de agendamentos web de uma barbearia inspirada no projeto GoBarber do bootcamp da Rocketseat.
 
 ## :rocket: Tecnologias Utilizadas
 - **NodeJS** — Um interpretador de javascript assíncrono
@@ -44,7 +44,7 @@ Faça um clone desse repositório.
 2. Rode `yarn` para instalar as dependências;
 3. Crie um banco de dados no `mongoDB` com o nome de `Barber`;
 4. Rode `cp .env.example .env` e preencha o arquivo `.env` com **SUAS** variáveis ambiente;
-6. Rode `yarn dev` para iniciar o servidor.
+5. Rode `yarn dev` para iniciar o servidor.
 
 ### Frontend Web
 
