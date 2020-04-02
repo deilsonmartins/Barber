@@ -38,7 +38,7 @@ A aplicação é um gerenciador de agendamentos web de uma barbearia inspirada n
 
 Faça um clone desse repositório.
 
-### Backend
+### ⚔️ Backend
 
 1. A partir da raiz do projeto, entre na pasta do backend rodando `cd backend`;
 2. Rode `yarn` para instalar as dependências;
@@ -46,7 +46,7 @@ Faça um clone desse repositório.
 4. Rode `cp .env.example .env` e preencha o arquivo `.env` com **SUAS** variáveis ambiente;
 5. Rode `yarn dev` para iniciar o servidor.
 
-### Frontend Web
+### 🛡 Frontend Web
 
 --> Antes de executar, lembre-se de iniciar o backend deste projeto_
 
