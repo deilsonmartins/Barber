@@ -31,11 +31,11 @@
    <a href="#-como-contribuir">Como Contribuir</a>
 </p>
 
-## 🚀 Sobre a Aplicação
+## 💻 Sobre a Aplicação
 
 A aplicação é um gerenciador de agendamentos web de uma barbearia inspirada no projeto GoBarber do bootcamp da Rocketseat.
 
-## 💻 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 - **NodeJS** — Um interpretador de javascript assíncrono
 - **Express** - Estrutura para desenvolvimento de Backend em Nodejs
 - **MongoDB** - Banco de dados não relacional
