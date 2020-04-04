@@ -57,7 +57,7 @@ Faça um clone desse repositório.
 
 ### 🛡 Frontend Web
 
---> Antes de executar, lembre-se de iniciar o backend deste projeto_
+⚠️ Antes de executar, lembre-se de iniciar o backend deste projeto_
 
 1. A partir da raiz do projeto, entre na pasta do frontend rodando `cd frontend`;
 2. Rode `yarn` para instalar as dependências;
